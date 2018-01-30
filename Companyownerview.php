@@ -1,12 +1,7 @@
 <?php
-
  include("header.php");
  include("connection.php");  ?>
-
-
 <div class="container pt60">
-	  
- hh
 <?php include("profile-navigation.php"); ?>
 <center><h3><b><u>User Information</u></b></h3></center>
 	<br>
