@@ -12,4 +12,4 @@ function currencyConverter($from_Currency,$to_Currency,$amount) {
 	$data = array( 'rate' => $rate, 'converted_amount' =>$converted_amount, 'from_Currency' => strtoupper($from_Currency), 'to_Currency' => strtoupper($to_Currency));
 	 json_encode( $data );	
 }
-?> 
+?>  
